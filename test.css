@@ -1,0 +1,42 @@
+
+#custom-list{
+
+    background-color:antiquewhite;
+    padding:0px;
+    height:80px;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+#custom-list li{
+
+list-style-type: none;
+float: left;
+margin-right: 5%;
+
+}
+
+#custom-list li:last-child
+{
+float: right;
+margin-right: 0px;
+}
+
+a{
+    color:black;
+}
+
+body{
+    background-image: url("https://i.pinimg.com/originals/5b/1d/63/5b1d634b1064d850ae79bd92af866e60.jpg");
+    color: white;
+}
+
+h1{
+    color:bisque;
+}
+
+h2{
+    color: antiquewhite;
+}
+
